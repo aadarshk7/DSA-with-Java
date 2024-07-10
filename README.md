@@ -1,1 +1,1 @@
-# DSA-with-Java
+DSA Sorting, Searching and other algorithms
