@@ -1,1 +1,1 @@
-DSA Sorting, Searching and other algorithms
+DSA Sorting, Searching and other algorithms.
